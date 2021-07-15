@@ -1,0 +1,12 @@
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Edwin Espinoza\Desktop\LUCKY TAREA\NetCore-EspinozaEdwin\Data\obj\Debug\netcoreapp3.1\Data.pdb
